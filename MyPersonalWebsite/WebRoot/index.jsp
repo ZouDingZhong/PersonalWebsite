@@ -19,9 +19,9 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
     
   </head>
   <body>
-  	<h1 class="btn btn-success btn-large"><i class="icon-user"></i>
-    Hello,world!</h1>
-  	<script src="http://code.jquery.com/jquery.js" ></script>
+ 	<div class="container">
+    </div>
+  	<script src="JQuery/jquery-2.1.4.js" ></script>
   	<script src="bootstrap/js/bootstrap.min.js" ></script>
   </body>
 </html>
